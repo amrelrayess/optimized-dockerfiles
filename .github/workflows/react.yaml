@@ -37,4 +37,4 @@ jobs:
           context: ./react
           file: ./react/Dockerfile.no-optimization
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/learning-tracker:latest, ${{ secrets.DOCKERHUB_USERNAME }}/learning-tracker:${{ github.sha }}
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/learning-tracker:non-optimized-latest, ${{ secrets.DOCKERHUB_USERNAME }}/learning-tracker:non-optimized-${{ github.sha }}
