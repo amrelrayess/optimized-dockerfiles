@@ -50,8 +50,8 @@ Each subfolder represents a **standalone example project**, with:
 | **Frontend**  | React + Vite                       | ✅ DONE        |
 | **Frontend**  | Next.js (App Router + SSR)         | ✅ DONE        |
 | **Frontend**  | Angular (CSR + SSR)                | ✅ DONE        |
-| **Frontend**  | Vue 3 + Vite                       | 🔜 Coming soon |
-| **Frontend**  | SvelteKit                          | 🔜 Coming soon |
+| **Frontend**  | Vue 3 + Vite                       | ✅ DONE        |
+| **Frontend**  | SvelteKit                          | ✅ DONE        |
 |               |                                    |                |
 | **Backend**   | Node.js (Express)                  | 🔜 Coming soon |
 | **Backend**   | Node.js (Fastify)                  | 🔜 Coming soon |
