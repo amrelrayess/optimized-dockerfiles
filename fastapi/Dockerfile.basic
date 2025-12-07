@@ -1,0 +1,21 @@
+# Dockerfile.dev (non-optimized)
+FROM python:3.14-slim
+
+# Set working directory
+WORKDIR /app
+
+# Copy project files
+COPY pyproject.toml poetry.lock ./
+COPY src ./src
+
+# Install Poetry
+RUN pip install --no-cache-dir poetry
+
+# Install dependencies
+RUN poetry install --no-root --no-interaction --no-ansi
+
+# Expose port
+EXPOSE 8000
+
+# Run app
+CMD ["poetry", "run", "uvicorn", "fastapi_demo.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
